@@ -10,3 +10,7 @@ Problem statement: From the given ‘Iris’ dataset, predict the optimum number
 
 # Task 3: Decision Trees
 Analysis on IRIS Dataset
+
+# Speech Recognition
+This project is under progress.
+This is a speech emotion recognition project. Currently the python file 'Speech' has male and female divisions. Trying to remove the gender classification. 
