@@ -11,7 +11,13 @@ Problem statement: From the given ‘Iris’ dataset, predict the optimum number
 # Task 3: Decision Trees
 Analysis on IRIS Dataset
 
-# Speech Recognition
+# Chatbot using conversational NLP
+This is the simplest chatbot built using python. It uses conversational Natural Language Processing. A leading python library Natural Language Toolkit (NLTK) is used.
+
+# Covid19 Prediction Forecasting
+Built a Covid19 Machine Learning Prediction and Forecasting with Time Series Analysis with available Covid19 Data Set.
+
+# Speech (Speech Recognition)
 This project is under progress.
 This is a speech emotion recognition project. Currently the python file 'Speech' has male and female divisions. Trying to remove the gender classification. 
 
@@ -23,6 +29,3 @@ I have completed the following
 4. Data visualization (Audio files count v/s Emotions)
 5. Plotting waveplots and spectogram for audio files
 6. Extracting features - Under progress
-
-# Chatbot using conversational NLP
-This is the simplest chatbot built using python. It uses conversational Natural Language Processing. A leading python library Natural Language Toolkit (NLTK) is used.
