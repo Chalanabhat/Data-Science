@@ -14,3 +14,12 @@ Analysis on IRIS Dataset
 # Speech Recognition
 This project is under progress.
 This is a speech emotion recognition project. Currently the python file 'Speech' has male and female divisions. Trying to remove the gender classification. 
+
+# Speech Recognition without gender classification
+I have completed the following
+1. Impoorting libraries
+2. Converting audio files into tabular form for data analysis
+3. Combining all dataframes into one .csv file for better data analysis
+4. Data visualization (Audio files count v/s Emotions)
+5. Plotting waveplots and spectogram for audio files
+6. Extracting features - Under progress
