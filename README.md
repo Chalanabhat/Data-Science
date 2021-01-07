@@ -23,3 +23,6 @@ I have completed the following
 4. Data visualization (Audio files count v/s Emotions)
 5. Plotting waveplots and spectogram for audio files
 6. Extracting features - Under progress
+
+# Chatbot using conversational NLP
+This is the simplest chatbot built using python. It uses conversational Natural Language Processing. A leading python library Natural Language Toolkit (NLTK) is used.
